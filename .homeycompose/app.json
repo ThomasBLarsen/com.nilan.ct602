@@ -1,0 +1,25 @@
+{
+  "id": "com.nilan.ct602",
+  "version": "1.0.0",
+  "compatibility": ">=5.0.0",
+  "sdk": 3,
+  "name": {
+    "en": "nilan.ct602"
+  },
+  "description": {
+    "en": "Nilan CT602 Modbus integration to Homey"
+  },
+  "category": [
+    "climate"
+  ],
+  "permissions": [],
+  "images": {
+    "small": "/assets/images/small.png",
+    "large": "/assets/images/large.png",
+    "xlarge": "/assets/images/xlarge.png"
+  },
+  "author": {
+    "name": "Thomas Larsen",
+    "email": "thomas.larsen@hotmail.no"
+  }
+}
